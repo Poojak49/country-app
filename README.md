@@ -1,5 +1,5 @@
 # Country Guide-app
-Country Guide App is a lightweight web application that provides instant information about countries around the world. Simply enter the name of any country, and the app retrieves key details such as capital, population, currencies, and languages spoken.
+Country Guide App is a lightweight web application that provides instant information about countries around the world. enter the name of any country, and the app retrieves key details such as capital, population, currencies, and languages spoken.
 
 Features:
 Instant Information: Quickly access country details with a simple search.
